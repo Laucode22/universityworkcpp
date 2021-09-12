@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="calendario.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="2735" topLine="165" />
+	</File>
+	<File name="calendario.h" open="0" top="0" tabpos="8">
+		<Cursor position="281" topLine="0" />
+	</File>
+	<File name="comun.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="692" topLine="8" />
+	</File>
+	<File name="comun.h" open="0" top="0" tabpos="4">
+		<Cursor position="342" topLine="0" />
+	</File>
+	<File name="errores.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="1951" topLine="17" />
+	</File>
+	<File name="errores.h" open="0" top="0" tabpos="2">
+		<Cursor position="160" topLine="0" />
+	</File>
+	<File name="generalTad.cpp" open="1" top="1" tabpos="2">
+		<Cursor position="10289" topLine="79" />
+	</File>
+	<File name="generalTad.h" open="1" top="0" tabpos="1">
+		<Cursor position="1881" topLine="51" />
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="122" topLine="0" />
+	</File>
+	<File name="preguntas.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="435" topLine="0" />
+	</File>
+	<File name="preguntas.h" open="0" top="0" tabpos="9">
+		<Cursor position="299" topLine="6" />
+	</File>
+</CodeBlocks_layout_file>

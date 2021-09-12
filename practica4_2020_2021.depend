@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1607809370 source:c:\users\laura\desktop\practica4_2020_2021\comun.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"comun.h"
+
+1607809199 c:\users\laura\desktop\practica4_2020_2021\comun.h
+
+1607809089 source:c:\users\laura\desktop\practica4_2020_2021\errores.cpp
+	<stdio.h>
+	"errores.h"
+
+1607808959 c:\users\laura\desktop\practica4_2020_2021\errores.h
+	"comun.h"
+
+1608058017 source:c:\users\laura\desktop\practica4_2020_2021\generaltad.cpp
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"generalTad.h"
+
+1607808945 c:\users\laura\desktop\practica4_2020_2021\generaltad.h
+	"comun.h"
+	"errores.h"
+	"calendario.h"
+	"preguntas.h"
+
+1607452056 source:c:\users\laura\desktop\practica4_2020_2021\main.cpp
+	<stdio.h>
+	"generalTad.h"
+
+1607858750 source:c:\users\laura\desktop\practica4_2020_2021\calendario.cpp
+	<stdio.h>
+	"calendario.h"
+
+1607809911 c:\users\laura\desktop\practica4_2020_2021\calendario.h
+	"comun.h"
+
+1607810410 c:\users\laura\desktop\practica4_2020_2021\preguntas.h
+	"comun.h"
+	"errores.h"
+
+1607858558 source:c:\users\laura\desktop\practica4_2020_2021\preguntas.cpp
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+	"preguntas.h"
+
